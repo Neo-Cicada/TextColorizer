@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/Neo-Cicada/TextColorizer/issues"
   },
-  "homepage": "https://github.com/Neo-Cicada/TextColorizer#readme"
+  "homepage": "https://github.com/Neo-Cicada/TextColorizer#readme",
+  "dependencies": {
+    "@neo-cicada/meme-coin-tracker": "^1.1.1"
+  }
 }
