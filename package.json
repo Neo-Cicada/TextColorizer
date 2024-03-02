@@ -1,0 +1,31 @@
+{
+  "name": "textcolorizer",
+  "version": "1.0.0",
+  "description": "Text colorizer is a lightweight npm package that enables developers to easily add color to console output in Node.js applications. With ConsolePalette, you can enhance the readability and visual appeal of your console logs by applying various colors, background colors, and text styles using ANSI escape codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Neo-Cicada/TextColorizer.git"
+  },
+  "keywords": [
+    "console",
+    "colors",
+    "colorize",
+    "ANSI",
+    "text",
+    "terminal",
+    "Node.js",
+    "logging",
+    "development",
+    "utilities"
+  ],
+  "author": "neo-cicada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neo-Cicada/TextColorizer/issues"
+  },
+  "homepage": "https://github.com/Neo-Cicada/TextColorizer#readme"
+}
