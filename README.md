@@ -6,7 +6,7 @@ Text Colorizer is a lightweight npm package that provides various functionalitie
 ### Installation:
 
 ``` bash
-npm i color-console
+npm i consoletextcolorizer
 ```
 ### Usage
 
