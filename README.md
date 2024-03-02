@@ -12,7 +12,7 @@ npm i color-console
 
 Text Colors:
 
-ColorConsole provides functions to print text in different colors. Here's how to use them:
+Text Colorizer provides functions to print text in different colors. Here's how to use them:
 ```javascript
 const colorConsole = require('color-console');
 
